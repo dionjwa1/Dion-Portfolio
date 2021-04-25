@@ -33,7 +33,7 @@ class BasicElements extends React.Component {
               <Col lg="12">
                 {/* Basic elements */}
                 <h2 className="mb-5">
-                  <span>Basic Elements</span>
+                  <span>About Dion</span>
                 </h2>
                 {/* Buttons */}
                 <h3 className="h4 text-success font-weight-bold mb-4">
@@ -42,17 +42,11 @@ class BasicElements extends React.Component {
                 {/* Button styles */}
                 <div>
                   <Button color="primary" type="button">
-                    Button
-                  </Button>
-                  <Button
-                    className="btn-icon btn-3 ml-1"
-                    color="primary"
-                    type="button"
-                  >
-                    <span className="btn-inner--icon mr-1">
-                      <i className="ni ni-bag-17" />
-                    </span>
-                    <span className="btn-inner--text">With icon</span>
+                    Dion's LinkedIn
+
+                    <form action="https://www.linkedin.com/in/dionjwa">
+                      <input type="submit" value="Go to LinkedIn Profile" />
+                    </form>
                   </Button>
                   <Button
                     className="btn-icon btn-2 ml-1"
