@@ -226,3 +226,11 @@ Facebook: <https://www.facebook.com/CreativeTim?ref=creativetim>
 Dribbble: <https://dribbble.com/creativetim?ref=creativetim>
 
 Instagram: <https://www.instagram.com/CreativeTimOfficial?ref=creativetim>
+
+
+Number and name of feature: _La5
+
+Estimate of time needed to complete: 3 hours
+Start time: _____1300
+Finish time: 2 days @ 1700
+Actual time needed to complete: 10 hours
